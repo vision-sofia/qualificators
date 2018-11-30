@@ -1,0 +1,2 @@
+# qualificators
+Sofia Vision Hackathon
